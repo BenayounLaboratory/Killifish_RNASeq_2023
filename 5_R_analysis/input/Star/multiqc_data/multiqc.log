@@ -1,0 +1,98 @@
+[2023-05-25 15:26:57,427] multiqc                                            [DEBUG  ]  This is MultiQC v1.15.dev0 (623e0a1)
+[2023-05-25 15:26:57,428] multiqc                                            [DEBUG  ]  Command used: /home/alanxu/miniconda3/bin/multiqc .
+[2023-05-25 15:26:58,952] multiqc                                            [DEBUG  ]  Latest MultiQC version is v1.14
+[2023-05-25 15:26:58,952] multiqc                                            [DEBUG  ]  Working dir : /mnt/c/Users/alanx/Downloads/REPORT
+[2023-05-25 15:26:58,952] multiqc                                            [DEBUG  ]  Template    : default
+[2023-05-25 15:26:58,952] multiqc                                            [DEBUG  ]  Running Python 3.10.9 (main, Jan 11 2023, 15:21:40) [GCC 11.2.0]
+[2023-05-25 15:26:58,952] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, ccs, ngsderive, purple, conpair, lima, peddy, somalier, methylQA, mosdepth, phantompeakqualtools, qualimap, preseq, hifiasm, quast, qorts, rna_seqc, rockhopper, rsem, rseqc, busco, bustools, goleft_indexcov, gffcompare, disambiguate, supernova, deeptools, sargasso, verifybamid, mirtrace, happy, mirtop, sambamba, gopeaks, homer, hops, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, fgbio, dragen, dragen_fastqc, dedup, pbmarkdup, damageprofiler, biobambam2, jcvi, mtnucratio, picard, vep, sentieon, prokka, qc3C, nanostat, samblaster, samtools, sexdeterrmine, eigenstratdatabasetools, bamtools, jellyfish, vcftools, longranger, stacks, varscan2, snippy, umitools, bbmap, bismark, biscuit, diamond, hicexplorer, hicup, hicpro, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, cellranger, snpsplit, odgi, pangolin, nextclade, humid, kat, leehom, adapterRemoval, bbduk, clipandmerge, cutadapt, flexbar, kaiju, kraken, malt, motus, trimmomatic, sickle, skewer, sortmerna, biobloomtools, fastq_screen, afterqc, fastp, fastqc, filtlong, prinseqplusplus, pychopper, porechop, pycoqc, minionqc, anglerfish, multivcfanalyzer, clusterflow, checkqc, bcl2fastq, bclconvert, interop, ivar, flash, seqyclean, optitype, whatshap
+[2023-05-25 15:26:58,953] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmpsqzvykwb
+[2023-05-25 15:26:59,165] multiqc                                            [INFO   ]  Search path : /mnt/c/Users/alanx/Downloads/REPORT
+[2023-05-25 15:27:08,064] multiqc                                            [DEBUG  ]  Summary of files that were skipped by the search: [skipped_module_specific_max_filesize: 468] // [skipped_no_match: 78]
+[2023-05-25 15:27:08,774] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.7.1
+[2023-05-25 15:27:08,779] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.7.1
+[2023-05-25 15:27:08,781] multiqc                                            [DEBUG  ]  No samples found: custom_content
+[2023-05-25 15:27:08,906] multiqc.modules.star.star                          [INFO   ]  Found 78 reports
+[2023-05-25 15:27:08,922] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:08,929] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:08,936] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:08,942] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:08,949] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:08,956] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:08,963] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:08,969] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:08,976] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:08,983] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:08,989] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:08,996] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,003] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,010] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,016] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,022] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,029] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,037] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,044] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,050] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,057] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,063] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,070] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,076] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,083] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,090] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,097] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,103] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,110] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,117] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,123] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,130] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,136] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,143] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,149] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,155] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,162] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,168] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,175] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,182] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,189] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,195] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,202] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,208] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,215] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,221] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,228] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,235] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,241] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,248] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,255] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,262] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,268] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,276] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,283] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,289] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,296] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,302] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,309] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,315] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,322] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,329] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,335] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,342] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,348] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,355] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,361] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,368] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,375] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,381] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,388] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,394] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,400] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,407] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,413] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,421] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,427] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,434] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: fastp.json
+[2023-05-25 15:27:09,434] multiqc.modules.fastp.fastp                        [INFO   ]  Found 78 reports
+[2023-05-25 15:27:09,639] multiqc                                            [INFO   ]  Compressing plot data
+[2023-05-25 15:27:12,484] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2023-05-25 15:27:12,484] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2023-05-25 15:27:12,484] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpsqzvykwb/multiqc_data' to '/mnt/c/Users/alanx/Downloads/REPORT/multiqc_data'
+[2023-05-25 15:27:12,833] multiqc                                            [INFO   ]  MultiQC complete

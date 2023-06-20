@@ -1,0 +1,11 @@
+name: nf_interactive_db
+title:
+username:
+account: alanxu-usc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9338526
+bundleId: 7367521
+url: https://alanxu-usc.shinyapps.io/nf_interactive_db/
+when: 1687277847.69161
+lastSyncTime: 1687277847.69162
